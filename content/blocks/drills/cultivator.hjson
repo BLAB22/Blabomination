@@ -1,0 +1,7 @@
+requirements: [
+    copper/25
+    lead/25
+    silicon/10
+    metaglass/10
+    oxide/5
+    ]
