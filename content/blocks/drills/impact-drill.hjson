@@ -1,0 +1,6 @@
+requirements: [
+    graphite/225
+    titanium/300
+    plastanium/50
+    thorium/120
+    ]

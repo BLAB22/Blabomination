@@ -1,0 +1,9 @@
+requirements: [
+    graphite/300
+    titanium/350
+    silicon/300
+    plastanium/50
+    thorium/150
+    tungsten/250
+    oxide/50
+    ]

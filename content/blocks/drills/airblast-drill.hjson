@@ -1,0 +1,8 @@
+requirements: [
+    copper/350
+    graphite/225
+    silicon/300
+    thorium/60
+    beryllium/250
+    oxide/30
+    ]

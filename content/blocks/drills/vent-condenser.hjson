@@ -1,0 +1,5 @@
+requirements: [
+    graphite/30
+    metaglass/55
+    beryllium/30
+    ]
