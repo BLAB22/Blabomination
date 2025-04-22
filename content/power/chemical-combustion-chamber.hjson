@@ -1,0 +1,8 @@
+
+powerProduction: 25
+requirements:[
+    copper/150
+    graphite/70
+    thorium/45
+    silicon/25
+]

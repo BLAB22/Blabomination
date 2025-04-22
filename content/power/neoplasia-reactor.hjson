@@ -1,0 +1,5 @@
+
+explosionRadius: 60
+explosionDamage: 200
+explosionPuddles: 16
+explosionPuddleRange: 60

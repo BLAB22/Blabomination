@@ -1,0 +1,12 @@
+
+explosionRadius: 20
+explosionDamage: 4000
+
+powerProduction: 100
+requirements:[
+    oxide/100
+    tungsten/450
+    titanium/500
+    metaglass/1000
+    surge-alloy/80
+]

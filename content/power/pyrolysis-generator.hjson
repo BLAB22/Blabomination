@@ -1,0 +1,6 @@
+
+powerProduction: 25
+requirements:[
+    graphite/220
+    tungsten/220
+]
