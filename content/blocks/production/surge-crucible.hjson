@@ -1,0 +1,22 @@
+
+
+
+consumes:{
+    power:9
+    items:{items:[
+        copper/4
+        lead/6
+        blast-compound/2
+        oxide/1
+    ]}
+}
+outputItem:surge-alloy/2
+craftTime:60
+
+requirements:[
+    surge-alloy/120
+    titanium/1200
+    plastanium/500
+    tungsten/500
+    carbide/150
+]

@@ -1,0 +1,14 @@
+
+
+consumes:{
+    liquid:{
+        liquid:cyanogen
+        amount:0.1
+    }
+}
+requirements:[
+    lead/240
+    thorium/550
+    oxide/300
+    carbide/80
+]

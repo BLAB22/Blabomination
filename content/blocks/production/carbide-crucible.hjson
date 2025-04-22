@@ -1,0 +1,11 @@
+
+consumes:{
+    items:{items:[
+        pyratite/8
+    ]}
+}
+requirements:[
+    surge-alloy/40
+    tungsten/150
+    thorium/250
+]
