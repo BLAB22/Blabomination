@@ -1,0 +1,23 @@
+
+
+
+consumes:{
+    power:6
+    items:{items:[
+        blast-compound/1
+        oxide/1
+    ]}
+    liquid:{
+        liquid:hydrogen
+        amount:0.2
+    }
+}
+outputItem:surge-alloy/1
+craftTime:180
+
+requirements:[
+    lead/750
+    titanium/450
+    thorium/450
+    oxide/120
+]
