@@ -2,7 +2,7 @@ name: "Blabomination"
 displayName: "Blabomination"
 author: high blabinary
 description: "Blabenstein's monster"
-version: "1.0"
-minGameVersion: 147
+version: 1.0
+minGameVersion: 146
 dependencies: [ ]
 hidden: false
