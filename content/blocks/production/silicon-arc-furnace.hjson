@@ -1,9 +1,24 @@
 
+
+
+consumes:{
+    power:20
+    items:{items:[
+        graphite/2
+        sand/10
+        pyratite/1
+    ]}
+    liquid:{
+        liquid:water
+        amount:0.1
+    }
+}
+outputItem:silicon/12
+craftTime:90
+
 requirements:[
-    lead/250
-    titanium/150
-    plastanium/120
-    silicon/50
-    graphite/300
-    phase-fabric/20
+    silicon/300
+    plastanium/150
+    beryllium/200
+    tungsten/350
 ]

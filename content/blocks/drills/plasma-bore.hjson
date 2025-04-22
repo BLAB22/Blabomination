@@ -1,9 +1,6 @@
 requirements: [
-    oxide/21000
-    beryllium/24000
-    silicon/18000
-    tungsten/15000
-    thorium/12000
-    carbide/5000
-    surge-alloy/7000
+    graphite/350
+    silicon/100
+    titanium/400
+    metaglass/150
     ]
