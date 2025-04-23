@@ -4,8 +4,6 @@
 consumes:{
     power:9
     items:{items:[
-        copper/4
-        lead/6
         blast-compound/2
         oxide/1
     ]}

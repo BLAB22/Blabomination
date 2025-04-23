@@ -12,12 +12,11 @@ consumes:{
     }
 }
 outputItem:silicon/12
-craftTime:90
+craftTime:60
 
 requirements:[
     silicon/250
     titanium/425
     thorium/120
-    plastanium/85
-    oxide/40
+    surge-alloy/40
 ]
