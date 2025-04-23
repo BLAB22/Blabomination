@@ -1,6 +1,6 @@
 requirements: [
-    graphite/350
-    silicon/100
-    titanium/400
-    metaglass/150
+    graphite/100
+    silicon/50
+    titanium/65
+    metaglass/50
     ]

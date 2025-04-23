@@ -1,8 +1,8 @@
 
-explosionRadius: 20
-explosionDamage: 4000
+explosionRadius: 30
+explosionDamage: 5000
 
-powerProduction: 100
+powerProduction: 150
 requirements:[
     oxide/100
     tungsten/450

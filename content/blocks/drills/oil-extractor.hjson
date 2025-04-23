@@ -1,7 +1,7 @@
 requirements: [
     copper/150
     lead/115
-    graphite/175
-    beryllium/150
+    graphite/55
+    beryllium/40
     silicon/75
     ]
