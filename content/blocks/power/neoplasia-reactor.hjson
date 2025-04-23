@@ -1,7 +1,7 @@
 
 explosionRadius: 60
 explosionDamage: 200
-explosionPuddles: 80
+explosionPuddles: 300
 explosionPuddleRange: 600
 explosionPuddleAmount: 600
 powerProduction: 220
