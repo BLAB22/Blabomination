@@ -2,10 +2,9 @@
 
 
 consumes:{
-    power:6
+    power:12
     items:{items:[
         blast-compound/1
-        oxide/1
     ]}
 }
 outputItem:surge-alloy/1

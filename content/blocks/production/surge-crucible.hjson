@@ -2,10 +2,9 @@
 
 
 consumes:{
-    power:9
+    power:24
     items:{items:[
-        blast-compound/2
-        oxide/1
+        blast-compound/4
     ]}
 }
 outputItem:surge-alloy/2
@@ -13,6 +12,7 @@ craftTime:60
 
 requirements:[
     surge-alloy/120
+    phase-fabric/160
     titanium/1200
     plastanium/500
     tungsten/500
